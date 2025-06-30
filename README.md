@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Node.js module to interact with the official [Telegram Bot API](https://core.telegram.org/bots/api).
+Node.js module to interact with the official [Telegram Bot API].
 
 
 [![Bot API](https://img.shields.io/badge/Bot%20API-v.9.0-00aced.svg?style=flat-square&logo=telegram)](https://core.telegram.org/bots/api)
