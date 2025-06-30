@@ -102,7 +102,7 @@ A telegram 🤖 bot for music, videos, movies, EDM tracks, torrent downloads, fi
 
 ## Demo
 
-The deployed version can be found on telegram as <a href="https://t.me/beetube_bot" target="_blank">@beetube_bot</a>
+The deployed version can be found on telegram as <a href="https://t.me/beetube_bot" target="_blank">@bot</a>
 
 - [View Demo 1](https://github.com/kodjunkie/beetube-bot/blob/master/assets/demo-one.gif)
 - [View Demo 2](https://github.com/kodjunkie/beetube-bot/blob/master/assets/demo-two.gif)
